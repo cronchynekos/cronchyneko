@@ -18,5 +18,17 @@
 <img src="https://img.shields.io/badge/-SQL-red?logo=sql&style=for-the-badge&logoColor=lightgrey" alt="html" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/-Data Science-yellow?style=for-the-badge&logoColor=lightgrey" alt="html" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/-Unreal Engine-orange?style=for-the-badge&logoColor=lightgrey" alt="html" style="vertical-align:top; margin:4px">
-
 </p>
+
+<p align="center">
+    <img width="485" height="225" src="https://github-readme-stats.vercel.app/api?  username=cronchynekos&show_icons=true&theme=tokyonight&include_all_commits=true&hide=stars" style="border-radius:40px;">
+    <img width="355" height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cronchynekos&theme=tokyonight&layout=compact&exclude_repo=settings" style="border-radius:40px;">
+</p>
+  
+<div style="margin-bottom: 15px"> 
+  
+  <a>✔  My projects:  </a>
+  <a href="https://github.com/cronchynekos?tab=repositories"> here</a>
+
+  <a>📫 You can contact me at **nateykim@gmail.com**</a>
+</div> 
