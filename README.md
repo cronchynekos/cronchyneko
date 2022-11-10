@@ -30,10 +30,11 @@
   
 <div style="margin-bottom: 15px"> 
   
-  <a>My projects:  </a>
+  <a>Some of my projects:  </a>
   <a href="https://github.com/cronchynekos?tab=repositories"> here</a>
 
-  <a>📫 You can contact me at **nateykim@gmail.com**</a>
+  <a>📫 You can contact me at: </a>
+  <a>**nateykim@gmail.com**</a>
   
   <a>My website:  </a>
   <a href="https://cronchynekos.github.io/Personal-Portfolio/"> here</a>
