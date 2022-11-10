@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/-Unreal Engine-orange?style=for-the-badge&logoColor=lightgrey" alt="html" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/-HTML-green?style=for-the-badge&logoColor=lightgrey" alt="html" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/-Blender-purple?style=for-the-badge&logoColor=lightgrey" alt="html" style="vertical-align:top; margin:4px">
-<img src="https://img.shields.io/badge/-CSS-white?style=for-the-badge&logo=node.js&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/-CSS-white?style=for-the-badge&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
 
 
 </p>
@@ -34,4 +34,7 @@
   <a href="https://github.com/cronchynekos?tab=repositories"> here</a>
 
   <a>📫 You can contact me at **nateykim@gmail.com**</a>
+  
+  <a>My website:  </a>
+  <a href="https://cronchynekos.github.io/Personal-Portfolio/"> here</a>
 </div> 
