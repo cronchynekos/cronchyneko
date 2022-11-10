@@ -3,6 +3,11 @@
   <img width="1000" height="140" src="/src/monokuroBanner.png">
 </p>
 
+<p align="center">
+    <img width="485" height="225" src="https://github-readme-stats.vercel.app/api?username=cronchynekos&show_icons=true&theme=tokyonight&include_all_commits=true&hide=stars" style="border-radius:40px;">
+    <img width="355" height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cronchynekos&theme=tokyonight&layout=compact&exclude_repo=settings" style="border-radius:40px;">
+</p>
+
 <h3> My bread and butter:  <h3>
 <img src="https://img.shields.io/badge/java-orange?logo=javascript&style=for-the-badge&logo=java&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="html" style="vertical-align:top; margin:4px">
@@ -20,22 +25,17 @@
 <img src="https://img.shields.io/badge/-Blender-purple?style=for-the-badge&logoColor=lightgrey" alt="html" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/-CSS-white?style=for-the-badge&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
 
-
 </p>
 
-<p align="center">
-    <img width="485" height="225" src="https://github-readme-stats.vercel.app/api?username=cronchynekos&show_icons=true&theme=tokyonight&include_all_commits=true&hide=stars" style="border-radius:40px;">
-    <img width="355" height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cronchynekos&theme=tokyonight&layout=compact&exclude_repo=settings" style="border-radius:40px;">
-</p>
+
   
 <div style="margin-bottom: 15px"> 
-  
   <a>Some of my projects:  </a>
   <a href="https://github.com/cronchynekos?tab=repositories"> here</a>
 
-  <a>📫 You can contact me at: </a>
-  <a>**nateykim@gmail.com**</a>
-  
   <a>My website:  </a>
   <a href="https://cronchynekos.github.io/Personal-Portfolio/"> here</a>
+  
+    <a>📫 You can contact me at: </a>
+  <a>**nateykim@gmail.com**</a>
 </div> 
