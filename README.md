@@ -1,4 +1,4 @@
-<h1 align="center">What's Up, I'm Nathan Kim </h1>
+<h1 align="center">What's Up, I'm Nathan</h1>
 <p align="center">
   <img width="1000" height="140" src="/src/monokuroBanner.png">
 </p>
