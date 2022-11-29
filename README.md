@@ -1,4 +1,3 @@
-<h1 align="center">What's Up, I'm Nathan</h1>
 <p align="center">
   <img width="1000" height="140" src="/src/monokuroBanner.png">
 </p>
@@ -7,6 +6,7 @@
     <img width="485" height="225" src="https://github-readme-stats.vercel.app/api?username=cronchynekos&show_icons=true&theme=tokyonight&include_all_commits=true&hide=stars" style="border-radius:40px;">
     <img width="355" height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cronchynekos&theme=tokyonight&layout=compact&exclude_repo=settings" style="border-radius:40px;">
 </p>
+<h1 align="center">What's Up, I'm Nathan</h1>
 
 <h3> My bread and butter:  <h3>
 <img src="https://img.shields.io/badge/java-orange?logo=javascript&style=for-the-badge&logo=java&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
