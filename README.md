@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/-HTML-green?style=for-the-badge&logoColor=lightgrey" alt="html" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/-Blender-purple?style=for-the-badge&logoColor=lightgrey" alt="html" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/-CSS-white?style=for-the-badge&logoColor=white" alt="html" style="vertical-align:top; margin:4px">
-<img src="https://img.shields.io/badge/-Docker-white?style=for-the-badge&logoColor=orange" alt="html" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/-Docker-green?style=for-the-badge&logoColor=orange" alt="html" style="vertical-align:top; margin:4px">
 
 </p>
 
