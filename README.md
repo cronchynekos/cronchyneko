@@ -1,11 +1,7 @@
 <p align="center">
-  <img width="1000" height="140" src="/src/monokuroBanner.png">
+  <img width="1000" height="140" src="https://cdn.discordapp.com/attachments/1039702613421195317/1068640190215753861/Black_Modern_Vlogger_YouTube_Banner_2.png">
 </p>
 
-<!-- <p align="center">
-    <img width="485" height="225" src="https://github-readme-stats.vercel.app/api?username=cronchynekos&show_icons=true&theme=tokyonight&include_all_commits=true&hide=stars" style="border-radius:40px;">
-    <img width="355" height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cronchynekos&theme=tokyonight&layout=compact&exclude_repo=settings" style="border-radius:40px;">
-</p> -->
 <h1 align="center">What's Up, I'm Nathan</h1>
 
 <h3> My bread and butter:  <h3>
