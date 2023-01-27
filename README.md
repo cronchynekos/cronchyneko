@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1000" height="300" src="https://cdn.discordapp.com/attachments/1039702613421195317/1068640190215753861/Black_Modern_Vlogger_YouTube_Banner_2.png">
+  <img width="1000" height="250" src="https://cdn.discordapp.com/attachments/1039702613421195317/1068640190215753861/Black_Modern_Vlogger_YouTube_Banner_2.png">
 </p>
 
 <h1 align="center">What's Up, I'm Nathan</h1>
