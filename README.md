@@ -27,8 +27,6 @@
 
   
 <div style="margin-bottom: 15px"> 
-  <a>Some of my projects:  </a>
-  <a href="https://github.com/cronchynekos?tab=repositories"> here</a>
 
   <a>My website:  </a>
   <a href="https://cronchynekos.github.io/Personal-Portfolio/"> here</a>
