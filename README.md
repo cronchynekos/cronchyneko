@@ -31,6 +31,6 @@
   <a>My website:  </a>
   <a href="https://cronchynekos.github.io/Personal-Portfolio/"> here</a>
   
-  <a>📫 You can contact me at: </a>
+  <a>📫 You can also contact me at: </a>
   <a>**nateykim@gmail.com**</a>
 </div> 
